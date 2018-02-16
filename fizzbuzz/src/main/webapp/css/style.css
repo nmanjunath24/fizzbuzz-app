@@ -1,0 +1,30 @@
+@CHARSET "ISO-8859-1";
+
+.heading1 {
+	font-size: 16px;
+	color: #000000;
+	font-weight: bold;
+	font-family: arial, helvetica, sans-serif;
+}
+
+body {
+	FONT-WEIGHT: normal;
+	FONT-SIZE: 12px;
+	COLOR: #000000;
+	FONT-STYLE: normal;
+	FONT-FAMILY: arial, helvetica, sans-serif
+}
+
+td {
+	FONT-WEIGHT: normal;
+	FONT-SIZE: 12px;
+	COLOR: #000000;
+	FONT-STYLE: normal;
+	FONT-FAMILY: arial, helvetica, sans-serif
+}
+
+.error {
+	FONT-WEIGHT: normal;
+	FONT-SIZE: 12px;
+	color: red;
+}

@@ -1,0 +1,9 @@
+127.0.0.1 - - [16/Feb/2018:14:23:21 +0530] "GET /fizzbuzz HTTP/1.1" 302 - http-bio-8080-exec-1 0
+127.0.0.1 - - [16/Feb/2018:14:23:21 +0530] "GET /fizzbuzz/ HTTP/1.1" 200 908 http-bio-8080-exec-2 561
+127.0.0.1 - - [16/Feb/2018:14:23:22 +0530] "POST /fizzbuzz/FizzBuzzServlet HTTP/1.1" 200 937 http-bio-8080-exec-3 16
+127.0.0.1 - - [16/Feb/2018:14:23:27 +0530] "POST /fizzbuzz/FizzBuzzServlet HTTP/1.1" 200 937 http-bio-8080-exec-4 0
+127.0.0.1 - - [16/Feb/2018:14:23:34 +0530] "POST /fizzbuzz/FizzBuzzServlet HTTP/1.1" 200 1056 http-bio-8080-exec-5 0
+127.0.0.1 - - [16/Feb/2018:14:23:47 +0530] "POST /fizzbuzz/FizzBuzzServlet HTTP/1.1" 200 937 http-bio-8080-exec-6 0
+127.0.0.1 - - [16/Feb/2018:14:24:03 +0530] "POST /fizzbuzz/FizzBuzzServlet HTTP/1.1" 200 1063 http-bio-8080-exec-7 0
+127.0.0.1 - - [16/Feb/2018:14:25:21 +0530] "POST /fizzbuzz/FizzBuzzServlet HTTP/1.1" 200 937 http-bio-8080-exec-9 0
+127.0.0.1 - - [16/Feb/2018:14:25:27 +0530] "POST /fizzbuzz/FizzBuzzServlet HTTP/1.1" 200 937 http-bio-8080-exec-10 15
